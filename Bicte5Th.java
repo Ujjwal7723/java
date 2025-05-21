@@ -18,5 +18,8 @@ public class Bicte5Th
 	        
 	        double mul = a*b;
 	        System.out.println("The mult is: " + mul);
+	        double divide = a/b;
+	        System.out.println("The div is: " + divide);
+	        
 	    }
 	}
