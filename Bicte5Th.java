@@ -15,5 +15,8 @@ public class Bicte5Th
 
 	        double sum = a + b;
 	        System.out.println("The sum is: " + sum);
+	        
+	        double mul = a*b;
+	        System.out.println("The mult is: " + mul);
 	    }
 	}
