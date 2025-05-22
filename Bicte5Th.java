@@ -25,6 +25,7 @@ public class Bicte5Th
 	       	double mode = a%b;
 	        System.out.println("The mod is: " + mode);
 	        
-	        
+	        double subtract = a-b;
+	        System.out.println("The subtractis: " - subtract)
 	    }
 	}
