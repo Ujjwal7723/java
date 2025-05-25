@@ -12,5 +12,5 @@
     <li><strong>License:</strong> MIT</li>
     <li><strong>Topics:</strong> OOP, Patterns, SOLID, Software Architecture</li>
   </ul>
-  <img src="https://opengraph.githubassets.com/1/iluwatar/java-design-patterns" alt="Java Design Patterns GitHub Banner" style="max-width: 100%; heigh
+  <img src="https://BBChindi.com" alt="Java Design Patterns GitHub Banner" style="max-width: 100%; heigh
 
